@@ -12,13 +12,13 @@ export const info = {
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
+      name: "Ayudante de catedra",
+      location: "Universidad de Buenos Aires",
+      startDate: "Apr 2024",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "Ayudante de catedra en la asignatura Algoritmos y programacion 2, corrector de trabajos practicos",
+        "La asignatura se centra en estructuras de datos dinamicas, principalmente en C++",
       ],
     },
 
@@ -37,9 +37,9 @@ export const info = {
   ],
 
   socialMedia: {
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    github: "https://github.com/ftaureluba",
+    email: "mailto:felitaurel@gmail.com",
+    linkedin: "https://www.linkedin.com/in/felipe-taurel-4858b321a/",
   },
 
   projects: [
@@ -50,5 +50,12 @@ export const info = {
       githubUrl: "https://github.com/felitaurel/react",
       liveUrl: "https://ecommerce-taurel.vercel.app/",
     },
+    {
+      title: "Gym app",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/ftaureluba/posts/tree/main",
+      liveUrL: "https://taurel-fitness-app.vercel.app/"
+    }
   ],
 };
