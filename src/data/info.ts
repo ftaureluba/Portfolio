@@ -44,18 +44,19 @@ export const info = {
 
   projects: [
     {
+      title: "Gym app",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/ftaureluba/posts/tree/main",
+      liveUrL: "https://taurel-fitness-app.vercel.app/",
+    },
+    {
       title: "E-commerce",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/felitaurel/react",
       liveUrl: "https://ecommerce-taurel.vercel.app/",
     },
-    {
-      title: "Gym app",
-      isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/ftaureluba/posts/tree/main",
-      liveUrL: "https://taurel-fitness-app.vercel.app/",
-    }
+    
   ],
 };
