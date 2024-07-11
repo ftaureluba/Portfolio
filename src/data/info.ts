@@ -55,7 +55,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/ftaureluba/posts/tree/main",
-      liveUrL: "https://taurel-fitness-app.vercel.app/"
+      liveUrL: "https://taurel-fitness-app.vercel.app/",
     }
   ],
 };
